@@ -1,6 +1,6 @@
 h1{
 	font-size: 70px;
-	margin:auto;
+	text-align:center;
 }
 button{
 		font-size: 50px;
@@ -9,8 +9,7 @@ button{
 		background-color: white;
 		color: black;
 		border: 2px solid #4CAF50; /*Green*/;
-		margin: auto;
-		width:50%;
+		text-align: center;
 }
 button:hover{
     background-color: #4CAF50; /* Green */
@@ -23,6 +22,5 @@ button:active{
 }
 div {
 	font-size: 100px;
-	margin: auto;
-	width: 50%;
+	text-align:center;
 }

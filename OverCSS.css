@@ -1,9 +1,15 @@
+@font-face {
+    font-family:bignoodletoo;
+    src: url(bignoodletoo.ttf);
+}
 h1{
+	font-family:bignoodletoo
 	font-size: 70px;
 	margin:auto;
 	width: 50%;
 }
 button {
+		font-family:bignoodletoo
 		font-size: 50px;
 		padding: 60px 60px;
 		border radius: 8px;
@@ -23,6 +29,7 @@ button:active{
 	 transform: translateY(4px);
 }
 div {
+	font-family:bignoodletoo
 	font-size: 40px;
 	margin: auto;
 	width: 50%;

@@ -10,7 +10,7 @@ button{
 		color: black;
 		border: 2px solid #4CAF50; /*Green*/;
 		margin: auto;
-		width:90%;
+		width:50%;
 }
 button:hover{
     background-color: #4CAF50; /* Green */
@@ -22,7 +22,7 @@ button:active{
 	 transform: translateY(4px);
 }
 div {
-	font-size: 40px;
+	font-size: 100px;
 	margin: auto;
-	width: 90%;
+	width: 50%;
 }

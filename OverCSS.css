@@ -4,6 +4,10 @@ h1{
 	margin-left:30%;
 	margin-right:30%;
 }
+@font-face {
+    font-family:BigNoodleToo;
+    src: url(bignoodletoo.ttf);
+}
 button {
 		font-size: 50px;
 		padding: 60px 60px;

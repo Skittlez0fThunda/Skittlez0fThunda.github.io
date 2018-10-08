@@ -1,12 +1,8 @@
-@font-face {
-    font-family: Bignoodle;
-    src: url(bignoodletoo.ttf);
 h1{
-	font-size: 80px
+	font-size: 80px;
 	width:40%;
 	margin-left:30%;
 	margin-right:30%;
-}
 }
 button {
 		font-size: 50px;
@@ -30,4 +26,7 @@ button:active{
 }
 div {
 	font-size: 40px;
+	width:40%;
+	margin-left:30%;
+	margin-right:30%;
 }

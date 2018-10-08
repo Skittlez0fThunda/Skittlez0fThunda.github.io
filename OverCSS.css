@@ -9,8 +9,8 @@ button{
 		background-color: white;
 		color: black;
 		border: 2px solid #4CAF50; /*Green*/;
-		margin:auto
-		width:50%
+		display: flex; 
+		justify-content: center; 
 }
 button:hover{
     background-color: #4CAF50; /* Green */

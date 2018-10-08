@@ -1,7 +1,7 @@
 h1{
 	font-size: 70px;
 	margin:auto;
-	width: 50%;
+	width: 90%;
 }
 button{
 		font-size: 50px;
@@ -11,7 +11,7 @@ button{
 		color: black;
 		border: 2px solid #4CAF50; /*Green*/;
 		margin: auto;
-		width:50%;
+		width:90%;
 }
 button:hover{
     background-color: #4CAF50; /* Green */
@@ -25,5 +25,5 @@ button:active{
 div {
 	font-size: 40px;
 	margin: auto;
-	width: 50%;
+	width: 90%;
 }
